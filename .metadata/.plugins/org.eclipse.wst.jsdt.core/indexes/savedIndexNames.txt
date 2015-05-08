@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+E:\e_MANDI\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3597881967.index
+754299860.index
+7618771.index
+3953762900.index
+1432982588.index
+2373164258.index
+492069464.index
+2618204960.index
